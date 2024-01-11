@@ -1,3 +1,5 @@
+![logo](./durability.png)
+
 # Durability
 
 Durability is a CB1060 server plugin that allows users to check tool durability with a command, either `/durability` or `/uses`.
