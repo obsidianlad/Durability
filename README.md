@@ -21,7 +21,7 @@ $ javac -cp path/to/cb1060.jar:. Durability.java
 
 This will give you a compiled Durability.class.
 
-Then you will have to pack your own Durability.jar with the following structure:
+Lastly, pack your own Durability.jar with the following folder structure:
 
 ```
 Durability.jar
